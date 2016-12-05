@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c3d445b7-d42f-4248-b98b-ce70e305c8f8" name="fgr" url="http://192.168.2.210:63343">
+        <fileTransfer port="0" mountedRoot="E:\touch" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

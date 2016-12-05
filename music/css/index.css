@@ -95,3 +95,10 @@ body,html{
     text-align:center;
     line-height:1rem;
 }
+.swiper-pagination span{
+    border:0.02rem solid #fff;
+}
+.swiper-pagination .swiper-pagination-bullet-active{
+    background:#fff;
+}
+

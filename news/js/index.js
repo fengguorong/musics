@@ -1,4 +1,5 @@
 $(function(){
+ // 闪屏页   
     var widths=$(window).width();
     var heights=$(window).height();
     $(".swiper-slide").css({"height":heights+"px","width":widths+"px"});
@@ -19,4 +20,10 @@ $(function(){
             swiperAnimate(swiper); //每个slide切换结束时也运行当前slide动画
         }
     })
+//首页
+
+
+
+
+
 })
